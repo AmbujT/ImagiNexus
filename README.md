@@ -1,6 +1,6 @@
 
 # ImagiNexus
-https://lustrous-cucurucho-f0797d.netlify.app/
+https://imaginexus.netlify.app/
 **MERN Stack Web App for AI Image Generation**
 
 ![ImagiNexus](https://github.com/AmbujT/ImagiNexus/assets/76986205/7ec53fb7-724b-4732-a6f0-8069ed7b7292)
